@@ -1,1 +1,1 @@
-# Data-Analysis project ues python numpy pandash matplotlib 
+# Data-Analysis project uses python Numpy Pandas matplotlib 
